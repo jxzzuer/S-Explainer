@@ -1,0 +1,95 @@
+{
+  "data1": {
+    "rid": 417578,
+    "tokens_count": 202,
+    "review/text": "Clear, burnished copper-brown topped by a large beige head that displays impressive persistance and leaves a small to moderate amount of lace in sheets when it eventually departs. \\t\\tThe nose is sweet and spicy and the flavor is malty sweet, accented nicely by honey and by abundant caramel/toffee notes. There's some spiciness (especially cinnamon), but it's not overdone. \\t\\tThe finish contains a moderate amount of bitterness and a trace of alcohol. The mouthfeel is exemplary; full and rich, very creamy. Mouthfilling with some mouthcoating as well. Drinkability is high.\\t\\tGreat Lakes Christmas Ale is my first beer from the best brewery in my home state of Ohio and my former residence (3 years) of Cleveland. I'm very impressed. I expected a good, solid Christmas beer and those expectations were met and exceeded by a long shot. I only got a single this year, but you can bet that I'll be getting more of this fine seasonal during my future trips home for the holidays. I would have no trouble at all drinking Christmas Ale year-round.",
+    "x": [
+      "clear", ",", "burnished", "copper-brown", "topped", "by", "a", "large", "beige", "head", "that", "displays", "impressive", "persistance", "and", "leaves", "a", "small", "to", "moderate", "amount", "of", "lace", "in", "sheets", "when", "it", "eventually", "departs", ".",
+      "the", "nose", "is", "sweet", "and", "spicy", "and", "the", "flavor", "is", "malty", "sweet", ",", "accented", "nicely", "by", "honey", "and", "by", "abundant", "caramel/toffee", "notes", ".",
+      "there", "'s", "some", "spiciness", "(", "especially", "cinnamon", ")", ",", "but", "it", "'s", "not", "overdone", ".",
+      "the", "finish", "contains", "a", "moderate", "amount", "of", "bitterness", "and", "a", "trace", "of", "alcohol", ".",
+      "the", "mouthfeel", "is", "exemplary", ";", "full", "and", "rich", ",", "very", "creamy", ".",
+      "mouthfilling", "with", "some", "mouthcoating", "as", "well", ".",
+      "drinkability", "is", "high", ".",
+      "great", "lakes", "christmas", "ale", "is", "my", "first", "beer", "from", "the", "best", "brewery", "in", "my", "home", "state", "of", "ohio", "and", "my", "former", "residence", "(", "3", "years", ")", "of", "cleveland", ".",
+      "i", "'m", "very", "impressed", ".",
+      "i", "expected", "a", "good", ",", "solid", "christmas", "beer", "and", "those", "expectations", "were", "met", "and", "exceeded", "by", "a", "long", "shot", ".",
+      "i", "only", "got", "a", "single", "this", "year", ",", "but", "you", "can", "bet", "that", "i", "'ll", "be", "getting", "more", "of", "this", "fine", "seasonal", "during", "my", "future", "trips", "home", "for", "the", "holidays", ".",
+      "i", "would", "have", "no", "trouble", "at", "all", "drinking", "christmas", "ale", "year-round", "."
+    ]
+  },
+  "data2": {
+    "rid": 488899,
+    "tokens_count": 71,
+    "review/text": "Poured from a 12oz brown bottle into a pint glass, two-finger light tan head with excellent retention. Golden-amber with sticky residue clinging to the glass. Sweet honey smell. Taste of honey, a little hoppy, nutty sweet, some toasted malts and biscuits and horehound. Very smooth, creamy with some hop bite to balance it out. Superb! I could drink this all night long!",
+    "x": [
+      "poured", "from", "a", "12oz", "brown", "bottle", "into", "a", "pint", "glass", ",", "two-finger", "light", "tan", "head", "with", "excellent", "retention", ".",
+      "golden-amber", "with", "sticky", "residue", "clinging", "to", "the", "glass", ".",
+      "sweet", "honey", "smell", ".",
+      "taste", "of", "honey", ",", "a", "little", "hoppy", ",", "nutty", "sweet", ",",
+      "some", "toasted", "malts", "and", "biscuits", "and", "horehound", ".",
+      "very", "smooth", ",", "creamy", "with", "some", "hop", "bite", "to", "balance", "it", "out", ".",
+      "i", "could", "drink", "this", "all", "night", "long"
+    ]
+  },
+  "data3": {
+    "rid": 151687,
+    "tokens_count": 86,
+    "review/text": "Had on draught at the Frisco Grille, Columbia, MD.\\t\\tA- Pours a deep brown, with a nice off white head.\\t\\tS- Citrusy hops and sweet malt.\\t\\tT- Somewhat buttery, with a slight biscuit flavor. The hops are muted but balanced, no alcohol burn for a decent strong beer.\\t\\tM- Smooth, nice small bubble and a thin to medium body, allow this beer to flow nicely.\\t\\tD- Very well done, dangerously drinkable.",
+    "x": [
+      "had", "on", "draught", "at", "the", "frisco", "grille", ",", "columbia", ",", "md", ".", "a-", "pours", "a", "deep", "brown", ",", "with", "a", "nice", "off", "white", "head", ".",
+      "s-", "citrusy", "hops", "and", "sweet", "malt", ".",
+      "t-", "somewhat", "buttery", ",", "with", "a", "slight", "biscuit", "flavor", ".",
+      "the", "hops", "are", "muted", "but", "balanced", ",", "no", "alcohol", "burn", "for", "a", "decent", "strong", "beer", ".",
+      "m-", "smooth", ",", "nice", "small", "bubble", "and", "a", "thin", "to", "medium", "body", ",", "allow", "this", "beer", "to", "flow", "nicely", ".",
+      "d-", "very", "well", "done", ",", "dangerously", "drinkable", "."
+    ]
+  },
+  "data4": {
+    "rid": 335793,
+    "tokens_count": 83,
+    "review/text": "on tap down the street from the brewery\\t\\tdark garnet with two-finger tan head. dark munich malty aroma; very clear. solid hop bitterness (though little to no hop flavor or aroma)\\t\\tlightly carbonated. a solid example of the style and a great-tasting session brew (just over 4%). glad i got the chance to taste it over there: i doubt eggenberg's (this one, at least) distribution is very wide",
+    "x": [
+      "on", "tap", "down", "the", "street", "from", "the", "brewery", "dark", "garnet", "with", "two-finger", "tan", "head", ".",
+      "dark", "munich", "malty", "aroma", ";", "very", "clear", ".",
+      "solid", "hop", "bitterness", "(", "though", "little", "to", "no", "hop", "flavor", "or", "aroma", ")", "lightly", "carbonated", ".",
+      "a", "solid", "example", "of", "the", "style", "and", "a", "great-tasting", "session", "brew", "(", "just", "over", "4", "%", ")", ".",
+      "glad", "i", "got", "the", "chance", "to", "taste", "it", "over", "there", ":",
+      "i", "doubt", "eggenberg", "'s", "(", "this", "one", ",", "at", "least", ")", "distribution", "is", "very", "wide"
+    ]
+  },
+  "data5": {
+    "rid": 1483886,
+    "tokens_count": 70,
+    "review/text": "Poured a light orange color with a thin white head, little retention or lacing.\\t\\tSmells like Raspberry cool aid.\\t\\tTaste has a light malt profile with a strong bit of raspberry flavoring, not overpoweringly sweet, but very artificial tasting. No hop flavors to speak of.\\t\\tMouthfeel is light and oily.\\t\\tOk, but not something I will be looking for again.",
+    "x": [
+      "poured", "a", "light", "orange", "color", "with", "a", "thin", "white", "head", ",", "little", "retention", "or", "lacing", ".",
+      "smells", "like", "raspberry", "cool", "aid", ".",
+      "taste", "has", "a", "light", "malt", "profile", "with", "a", "strong", "bit", "of", "raspberry", "flavoring", ",", "not", "overpoweringly", "sweet", ",", "but", "very", "artificial", "tasting", ".",
+      "no", "hop", "flavors", "to", "speak", "of", ".",
+      "mouthfeel", "is", "light", "and", "oily", ".",
+      "ok", ",", "but", "not", "something", "i", "will", "be", "looking", "for", "again", "."
+    ]
+  },
+  "data6": {
+    "rid": 535033,
+    "tokens_count": 287,
+    "review/text": "Picked this up in Totowa since I never tried it before and this is prime season for this type of beer. While it wasn\\'t anything bad, this may have been the most \"plain jane\" Hefe that I\\'ve ever had one of most plain beers overall. It\\'s by no means a drain pour like the mass-market macros would be for me but there wasn\\'t anything memorable about this either. \\t\\tStandard pour to this with an off-gold hue and lots of cloudiness to it. The head reminded me of soda based on the sound and how long it lasted - lots of fizzle with little substance. There wasn\\'t any lacing to be seen and for the most part, that was the taste too. Lots of starch like potato chips or crackers with just a hint of clove, bubble gum, and banana here. Nowhere near as pronounced as its German counterparts and the aftertaste could hardly be detected either. Just a bit of carbonation here too but nothing that detracted from the beer itself. \\t\\tSure, it\\'s a bigger bottle but this was easy to down and if I had another, I might have opened that too afterwards. I came in with no expectations and left feeling the same way - not quite \"blah\" and not impressed either. I wouldn\\'t mind giving other beers from these guys a go, if for no other reason to see if this brewery is middle of the road on all of their offerings. This is only worth a try if nothing else in this style is readily available.",
+    "x": [
+      "picked", "this", "up", "in", "totowa", "since", "i", "never", "tried", "it", "before", "and", "this", "is", "prime", "season", "for", "this", "type", "of", "beer", ".",
+      "while", "it", "was", "n't", "anything", "bad", ",", "this", "may", "have", "been", "the", "most", "'plain", "jane", "'", "hefe", "that", "i", "'ve", "ever", "had", "one", "of", "most", "plain", "beers", "overall", ".",
+      "it", "'s", "by", "no", "means", "a", "drain", "pour", "like", "the", "mass-market", "macros", "would", "be", "for", "me", "but", "there", "was", "n't", "anything", "memorable", "about", "this", "either",
+      "standard", "pour", "to", "this", "with", "an", "off-gold", "hue", "and", "lots", "of", "cloudiness", "to", "it", ".",
+      "the", "head", "reminded", "me", "of", "soda", "based", "on", "the", "sound", "and", "how", "long", "it", "lasted", "-", "lots", "of", "fizzle", "with", "little", "substance", ".",
+      "there", "was", "n't", "any", "lacing", "to", "be", "seen", "and", "for", "the", "most", "part", ",", "that", "was", "the", "taste", "too", ".",
+      "lots", "of", "starch", "like", "potato", "chips", "or", "crackers", "with", "just", "a", "hint", "of", "clove", ",", "bubble", "gum", ",", "and", "banana", "here", ".",
+      "nowhere", "near", "as", "pronounced", "as", "its", "german", "counterparts", "and", "the", "aftertaste", "could", "hardly", "be", "detected", "either", ".",
+      "just", "a", "bit", "of", "carbonation", "here", "too", "but", "nothing", "that", "detracted", "from", "the", "beer", "itself",
+      "sure", ",", "it", "'s", "a", "bigger", "bottle", "but", "this", "was", "easy", "to", "down", "and", "if", "i", "had", "another", ",", "i", "might", "have", "opened", "that", "too", "afterwards", ".",
+      "i", "came", "in", "with", "no", "expectations", "and", "left", "feeling", "the", "same", "way", "-", "not", "quite", "'blah", "'", "and", "not", "impressed", "either", ".",
+      "i", "would", "n't", "mind", "giving", "other", "beers", "from", "these", "guys", "a", "go", ",", "if", "for", "no", "other", "reason", "to", "see", "if", "this",
+      "brewery", "is", "middle", "of", "the", "road", "on", "all", "of", "their", "offerings", ".",
+      "this", "is", "only", "worth", "a", "try", "if", "nothing", "else", "in", "this", "style", "is", "readily", "available", "."
+    ]
+  }
+}

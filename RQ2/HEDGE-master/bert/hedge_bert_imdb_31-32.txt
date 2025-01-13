@@ -1,0 +1,2 @@
+32
+bad location for anything but business  >> 0 ||| 1-4 1-5 1-2 3-4 3 1 2 4 5  >> 0

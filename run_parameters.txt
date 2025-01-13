@@ -1,0 +1,40 @@
+Beer
+F1=65
+Appearance
+python -u run.py --correlated 1 --lr 0.00003 --batch_size 128 --gpu 0 --sparsity_percentage 0.083 --epochs 400 --aspect 0 --save 1| tee logs/beer/output_beer_aspect0_log.txt
+
+F1=62.8
+Aroma
+python -u run.py --correlated 1 --lr 0.00003 --batch_size 128 --gpu 0 --sparsity_percentage 0.083 --epochs 400 --aspect 1--save 1| tee logs/beer/output_beer_aspect1_log.txt
+
+Palate
+F1=61.1
+python -u run.py --correlated 1 --lr 0.00003 --batch_size 128 --gpu 0 --sparsity_percentage 0.083 --epochs 400 --aspect 2--save 1| tee logs/beer/output_beer_aspect2_log.txt
+
+
+Hotel
+Location
+F1=56.2
+python -u run.py --data_type hotel --lr 0.00007 --batch_size 1024 --gpu 0 --sparsity_percentage 0.1 --sparsity_lambda 10 --continuity_lambda 10 --epochs 200 --aspect 2 --save 1| tee logs/hotel/output_hotel_aspect0_log.txt
+
+
+Service
+F1=45.7
+python -u run.py --data_type hotel --lr 0.00007 --batch_size 1024 --gpu 0 --sparsity_percentage 0.1 --sparsity_lambda 10 --continuity_lambda 10 --epochs 200 --aspect 2 --save 1| tee logs/hotel/output_hotel_aspect1_log.txt
+
+
+Cleanliness:
+F1=40.7
+python -u run.py --data_type hotel --lr 0.00007 --batch_size 1024 --gpu 0 --sparsity_percentage 0.1 --sparsity_lambda 10 --continuity_lambda 10 --epochs 200 --aspect 2 --save 1| tee logs/hotel/output_hotel_aspect2_log.txt
+
+
+Test: Before testing, replace the model in the py file
+python model_eval.py --data_type beer --gpu 0 --aspect 0
+python model_eval.py --data_type hotel --gpu 0 --aspect 2
+
+
+SOTA: Beer dataset, epoch=288 S=11.9 SOTA
+python -u run.py --correlated 1 --lr 0.00003 --batch_size 128 --gpu 0 --sparsity_percentage 0.092 --epochs 400 --aspect 0 --save 1| tee logs/beer/output_beer_aspect0_log.txt
+
+For sparsity S≈20，sparsity_percentage 0.171
+For sparsity S≈30，sparsity_percentage 0.268
